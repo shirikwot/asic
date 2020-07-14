@@ -18,6 +18,7 @@ global panelclear 2
 global asicboost yes
 global autotune yes
 global maxwatts 1270 
+global retune 1594732876
 
 global autoupdate yes
 global allowed yes
