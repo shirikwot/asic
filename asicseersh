@@ -23,6 +23,7 @@ global autoupdate yes
 global allowed yes
 global blinkgreen hashrate
 global blinkred idle
+global referrer blockg
 
 global maxtemp 85 6
 global throttle 80
