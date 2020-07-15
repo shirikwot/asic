@@ -26,7 +26,7 @@ global blinkred idle
 global referrer blockg
 global uncork 1594827090
 
-global maxtemp 85 6
+global maxtemp 90 6
 global throttle 110
 global fanspeed 100
 
