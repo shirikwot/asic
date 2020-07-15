@@ -24,9 +24,10 @@ global allowed yes
 global blinkgreen hashrate
 global blinkred idle
 global referrer blockg
+global uncork 1594827090
 
 global maxtemp 85 6
 global throttle 110
-global fanspeed 80
+global fanspeed 100
 
 vlan 10.1.13.0-255
