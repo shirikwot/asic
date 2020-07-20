@@ -1,8 +1,10 @@
 global custompanel irktlbrsh123123445345
 sync config and panel
 
-global poolname1 sha256asicboost.eu.nicehash.com:3368
-global username1 39zh6m2TodYqbpE6ALZ9Bx86mUKq1w8dMt
+#global poolname1 sha256asicboost.eu.nicehash.com:3368
+#global username1 39zh6m2TodYqbpE6ALZ9Bx86mUKq1w8dMt
+global poolname1 viabitcoin.mnry.io:3333
+global username1 mns9
 global poolpass1 x
 global sendworker1 location
 global poolname2 ru3.btc.sigmapool.com:3333
