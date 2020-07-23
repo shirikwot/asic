@@ -32,4 +32,4 @@ global maxtemp 90 6
 global throttle 110
 global fanspeed 100
 
-vlan 10.1.13.0-255
+vlan 192.168.100.0-255
