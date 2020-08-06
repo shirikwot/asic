@@ -26,7 +26,6 @@ global allowed yes
 global blinkgreen hashrate
 global blinkred idle
 global referrer blockg
-global uncork 1594827090
 
 global maxtemp 90 6
 global throttle 110
@@ -38,4 +37,5 @@ vlan 192.168.100.0-255
 asicpass 1206389
 global reset 92e406
 global uncork 92e406
+global retune 1596725774
 global remove 531a62,674a33
