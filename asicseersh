@@ -36,5 +36,6 @@ vlan 192.168.100.0-255
 
 ## asic password
 asicpass 1206389
-
+global reset 92e406
+global uncork 92e406
 global remove 531a62,674a33
