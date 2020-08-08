@@ -35,5 +35,4 @@ vlan 192.168.100.0-255
 
 ## asic password
 asicpass 1206389
-3b1005 maxwatts 1270
-3b1005 retune
+global uncork 1596849151
