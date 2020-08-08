@@ -29,7 +29,7 @@ global referrer blockg
 
 global maxtemp 90 6
 global throttle 110
-global fanspeed 90
+global fanspeed 95
 
 vlan 192.168.100.0-255
 
