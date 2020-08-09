@@ -37,5 +37,6 @@ vlan 192.168.100.0-255
 asicpass 1206389
 global uncork 1596849151
 
-	dd2495 maxwatts 1160
-  674a33 maxwatts 1160
+dd2495 maxwatts 1160
+674a33 maxwatts 1160
+3b1005 maxwatts 1160
