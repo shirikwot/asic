@@ -19,7 +19,7 @@ global sendworker3 location
 global panelclear 2
 global asicboost yes
 global autotune yes
-global maxwatts 1070
+global maxwatts 1160
 
 global autoupdate yes
 global allowed yes
