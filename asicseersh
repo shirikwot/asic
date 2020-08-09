@@ -19,7 +19,7 @@ global sendworker3 location
 global panelclear 2
 global asicboost yes
 global autotune yes
-global maxwatts 1270
+global maxwatts 1070
 
 global autoupdate yes
 global allowed yes
@@ -36,4 +36,4 @@ vlan 192.168.100.0-255
 ## asic password
 asicpass 1206389
 global remove c5f83d
-global uncork 1596959974
+global uncork 1596971947
