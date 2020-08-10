@@ -14,8 +14,8 @@ global poolname3 sha256.eu.nicehash.com:3334
 global username3 9zh6m2TodYqbpE6ALZ9Bx86mUKq1w8dMt
 global poolpass3 x
 global sendworker3 location
-global poolname-bchdiff bch.pool.bitcoin.com:3333
-global username-bchdiff shirikwot
+global poolname-bchdiff cn-bch.ss.btc.com:1800
+global username-bchdiff irktlb
 global poolpass-bchdiff x
 global sendworker-bchdiff location
 
