@@ -3,12 +3,12 @@ sync config and panel
 
 #global poolname1 sha256asicboost.eu.nicehash.com:3368
 #global username1 39zh6m2TodYqbpE6ALZ9Bx86mUKq1w8dMt
-global poolname1 btc-eu.f2pool.com:3333
-global username1 gavrilovtolik
+global poolname1 cn.ss.btc.com:443
+global username1 irktlb
 global poolpass1 x
 global sendworker1 location
-global poolname2 cn.ss.btc.com:443
-global username2 irktlb
+global poolname2 btc-eu.f2pool.com:3333
+global username2 shirik2000
 global poolpass2 x
 global sendworker2 location
 global poolname3 sha256.eu.nicehash.com:3334
