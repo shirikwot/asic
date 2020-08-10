@@ -39,15 +39,18 @@ global remove c5f83d
 
 3b1005 hpc 110
 3b1005 mvt 40
+3b1005 threshold 10
 3b1005 uncork 1597058384
 
 dd2495 uncork 1597058384
 dd2495 maxwatts 1100
 dd2495 retune 1597059822
+dd2495 threshold 10
 dd2495 uncork 1597058384
 
 d3f83c retune 1597059822
 d3f83c hpc 120
 d3f83c mvt 50
+d3f83c threshold 10
 
 
