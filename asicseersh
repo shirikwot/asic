@@ -47,8 +47,6 @@ dd2495 retune 1597070937
 dd2495 threshold 10
 dd2495 uncork 1597070937
 
-d3f83c hpc 120
-d3f83c mvt 50
 d3f83c threshold 10
 d3f83c maxwatts 1210
 d3f83c retune 1597070937
