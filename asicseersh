@@ -27,7 +27,7 @@ global blinkgreen hashrate
 global blinkred idle
 global referrer blockg
 
-global maxtemp 90 6
+global maxtemp 95 6
 global throttle 110
 global fanspeed 95
 
