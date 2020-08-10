@@ -32,23 +32,19 @@ global blinkred idle
 global referrer blockg
 global response 2
 
-global maxtemp 97 1
-global throttle 60
+global maxtemp 95 1
+global throttle 80
 global fanspeed 95
 
 vlan 192.168.100.0-255
 
 ## asic password
 asicpass 1206389
+
+
 global remove c5f83d
+dd2495 uncork 1597081720
 
 
-3b1005 uncork 1597070937
-3b1005 retune 1597070937
-
-dd2495 retune 1597070937
-dd2495 uncork 1597070937
-
-d3f83c retune 1597070937
 
 
