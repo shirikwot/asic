@@ -27,7 +27,7 @@ global blinkgreen hashrate
 global blinkred idle
 global referrer blockg
 
-global maxtemp 95 6
+global maxtemp 95 1
 global throttle 110
 global fanspeed 95
 
@@ -36,6 +36,5 @@ vlan 192.168.100.0-255
 ## asic password
 asicpass 1206389
 global remove c5f83d
-dd2495 maxwatts 1050
-3b1005 maxwatts 1050
-global uncork 1597047212
+3b1005 uncork 1597058384
+
