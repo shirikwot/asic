@@ -41,6 +41,8 @@ vlan 192.168.100.0-255
 ## asic password
 asicpass 1206389
 
-global uncork 1597394495
+global uncork 1597460098
+3b1005 reset 1597460098
+3b1005 maxwatts 1320
 
 
