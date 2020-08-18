@@ -41,6 +41,5 @@ vlan 192.168.100.0-255
 ## asic password
 asicpass 1206389
 
-531a62 uncork 1597778165
-
+531a62 reset 1597778851
 
