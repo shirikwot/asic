@@ -41,7 +41,5 @@ vlan 192.168.100.0-255
 ## asic password
 asicpass 1206389
 
-d3f83c global retune 1598529131
-d3f83c reset 1598529131
-3b1005 global retune 1598529131
-3b1005 reset 1598529131
+531a62 uncork 1598554076
+ 
