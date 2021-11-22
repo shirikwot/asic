@@ -39,7 +39,7 @@ global fanspeed 95
 vlan 192.168.100.0-255
 
 ## asic password
-asicpass 1206389
+asicpass xxx134gQWer
 
 531a62 maxwatts 1200
 
