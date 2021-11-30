@@ -2,7 +2,7 @@ global custompanel irktlbrsh123
 
 #global poolname1 sha256asicboost.eu.nicehash.com:3368
 #global username1 39zh6m2TodYqbpE6ALZ9Bx86mUKq1w8dMt
-global poolname1 cn.ss.btc.com:443
+global poolname1 39.107.236.106:443
 global username1 irktlb
 global poolpass1 x
 global sendworker1 location
@@ -32,17 +32,13 @@ global blinkred idle
 global referrer blockg
 global response 2
 
-global maxtemp 95 1
+global maxtemp 85 1
 global throttle 80
 global fanspeed 95
 
-vlan 192.168.100.0-255
+vlan 192.168.0.0-255
 
 ## asic password
 asicpass xxx134gQWer
 
-531a62 maxwatts 1200
-
-531a62 reboot 1598815636
-531a62 uncork 1598815636
  
